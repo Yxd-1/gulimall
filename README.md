@@ -1,2 +1,2 @@
-# gulimall
-谷粒商城
+# mall
+商城项目
